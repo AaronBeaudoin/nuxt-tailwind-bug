@@ -1,19 +1,7 @@
 {
-  "name": "nuxt-test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@nuxtjs/tailwindcss": "^4.1.2",
-    "fibers": "^5.0.0",
     "nuxt": "^2.15.6",
-    "postcss": "^8.2.15",
-    "sass": "^1.32.13",
-    "sass-loader": "^10.2.0"
+    "postcss": "^8.2.15"
   }
 }
